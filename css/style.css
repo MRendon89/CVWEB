@@ -1181,18 +1181,18 @@ ul.portfolio-image li .desc{
 }
 
 .facebook{
-  background: #969696;
+  background: #787878;
   /*padding: 20px 0;*/
 }
 .facebook a:after{
   background-color: #527bbb;
 }
 .linkedin{
-  background: #004182;
+  background: #969696;
   /*padding: 20px 0;*/
 }
 .linkedin a:after{
-  background-color: ##378fe9;
+  background-color: #378fe9;
 }
 .twitter{
   background: #ABABAB;
