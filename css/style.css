@@ -1132,7 +1132,7 @@ ul.portfolio-image li .desc{
   list-style: outside none none;
   float: left;
   overflow: hidden;
-  width: 33.33333%;
+  width: 25%;
   font-size: 13px;
 }
 
@@ -1186,6 +1186,13 @@ ul.portfolio-image li .desc{
 }
 .facebook a:after{
   background-color: #527bbb;
+}
+.linkedin{
+  background: #004182;
+  /*padding: 20px 0;*/
+}
+.linkedin a:after{
+  background-color: ##378fe9;
 }
 .twitter{
   background: #ABABAB;
